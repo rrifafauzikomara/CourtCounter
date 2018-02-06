@@ -13,7 +13,11 @@
         android:orientation="horizontal">
 
         <LinearLayout
+<<<<<<< HEAD
             android:layout_width="192dp"
+=======
+            android:layout_width="180dp"
+>>>>>>> Screenshot APK
             android:layout_height="440dp"
             android:orientation="vertical">
 
@@ -61,7 +65,11 @@
         </LinearLayout>
 
         <LinearLayout
+<<<<<<< HEAD
             android:layout_width="192dp"
+=======
+            android:layout_width="180dp"
+>>>>>>> Screenshot APK
             android:layout_height="440dp"
             android:layout_column="6"
             android:layout_row="0"
