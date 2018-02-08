@@ -1,5 +1,6 @@
 # CourtCounter
 Program android untuk menghitung score pertandingan
 
-
-<img src="Screenshot_1.png" width="400" height="711">            <img src="Screenshot_2.png" width="400" height="711">
+<pre>
+<img src="Screenshot_1.png" width="250" height="444">         <img src="Screenshot_2.png" width="250" height="444">
+</pre>
